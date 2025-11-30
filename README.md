@@ -3,6 +3,12 @@
 StockTracker is an Android application for tracking **real-time stock prices** and managing a watchlist.  
 Built with **Kotlin**, **Jetpack Compose**, and **Clean Architecture**, it offers a modern and responsive stock monitoring experience.
 
+
+
+https://github.com/user-attachments/assets/269e276d-ba38-4b7c-9aa9-e39466168319
+
+
+
 ---
 
 ## ✨ Features
@@ -51,7 +57,6 @@ StockTracker/
 ```bash
 # Clone the repository
 git clone https://github.com/navaspk/price-tracking.git
-cd StockTracker
 
 # Open the project in Android Studio
 # Build the project
